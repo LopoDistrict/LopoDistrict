@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LopoDistrict
 - 👀 I’m interested in Hacking
-- 🌱 I’m currently learning C++, reverse enginering, networking
+- 🌱 I’m currently learning C++, C, Cryptography
 - 💞️ I’m looking to collaborate on project if u want.
 - 📫 How to reach me : use osint to find me :)
 
