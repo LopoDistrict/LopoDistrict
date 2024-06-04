@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @LopoDistrict
-- 👀 I’m interested in Hacking
-- 🌱 I’m currently learning C++, C, Cryptography
-- 💞️ I’m looking to collaborate on project if u want.
+I don't post regularly on github, I create and update my repo all at once. All my projects are for educational purposes and I won't take any responsibility for misuse (especially for software). 
 
-
-<!---
-LopoDistrict/LopoDistrict is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Actually learning C++ and Java
+Interested in Cryptography, pentest, network, information Gathering, osint, and everything that touch to cybersecurity and ethical hacking
+Feel free to dm me for anything: lopodistrict@proton.me
